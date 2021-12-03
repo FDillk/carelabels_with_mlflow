@@ -1,0 +1,2 @@
+codecarbon==1.2.0
+mlflow==1.21.0

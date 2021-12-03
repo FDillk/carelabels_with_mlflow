@@ -1,0 +1,5 @@
+main:
+  parameters:
+    model: {type: str}
+    data: {type: str}
+  command: "python run.py {model} {data}"

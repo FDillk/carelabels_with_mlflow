@@ -1,0 +1,7 @@
+mlflow
+# packages below only used for creating more models
+sklearn
+# install torch with your cuda from https://pytorch.org/get-started/locally/
+torch
+torchvision
+torchaudio
